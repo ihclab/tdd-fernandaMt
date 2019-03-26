@@ -1,0 +1,9 @@
+C:\Users\Fernanda Torres\Desktop\tdd-fernandaMt\Ordenamiento\obj\Debug\netstandard2.0\Ordenamiento.csprojAssemblyReference.cache
+C:\Users\Fernanda Torres\Desktop\tdd-fernandaMt\Ordenamiento\obj\Debug\netstandard2.0\Ordenamiento.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda Torres\Desktop\tdd-fernandaMt\Ordenamiento\obj\Debug\netstandard2.0\Ordenamiento.AssemblyInfoInputs.cache
+C:\Users\Fernanda Torres\Desktop\tdd-fernandaMt\Ordenamiento\obj\Debug\netstandard2.0\Ordenamiento.AssemblyInfo.cs
+C:\Users\Fernanda Torres\Desktop\tdd-fernandaMt\Ordenamiento\bin\Debug\netstandard2.0\Ordenamiento.deps.json
+C:\Users\Fernanda Torres\Desktop\tdd-fernandaMt\Ordenamiento\bin\Debug\netstandard2.0\Ordenamiento.dll
+C:\Users\Fernanda Torres\Desktop\tdd-fernandaMt\Ordenamiento\bin\Debug\netstandard2.0\Ordenamiento.pdb
+C:\Users\Fernanda Torres\Desktop\tdd-fernandaMt\Ordenamiento\obj\Debug\netstandard2.0\Ordenamiento.dll
+C:\Users\Fernanda Torres\Desktop\tdd-fernandaMt\Ordenamiento\obj\Debug\netstandard2.0\Ordenamiento.pdb

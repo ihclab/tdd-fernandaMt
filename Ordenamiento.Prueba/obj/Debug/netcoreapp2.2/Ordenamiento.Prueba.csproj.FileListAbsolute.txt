@@ -1,0 +1,17 @@
+C:\Users\Fernanda Torres\Desktop\tdd-fernandaMt\Ordenamiento.Prueba\obj\Debug\netcoreapp2.2\Ordenamiento.Prueba.csprojAssemblyReference.cache
+C:\Users\Fernanda Torres\Desktop\tdd-fernandaMt\Ordenamiento.Prueba\obj\Debug\netcoreapp2.2\Ordenamiento.Prueba.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda Torres\Desktop\tdd-fernandaMt\Ordenamiento.Prueba\obj\Debug\netcoreapp2.2\Ordenamiento.Prueba.AssemblyInfoInputs.cache
+C:\Users\Fernanda Torres\Desktop\tdd-fernandaMt\Ordenamiento.Prueba\obj\Debug\netcoreapp2.2\Ordenamiento.Prueba.AssemblyInfo.cs
+C:\Users\Fernanda Torres\Desktop\tdd-fernandaMt\Ordenamiento.Prueba\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Fernanda Torres\Desktop\tdd-fernandaMt\Ordenamiento.Prueba\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Fernanda Torres\Desktop\tdd-fernandaMt\Ordenamiento.Prueba\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Fernanda Torres\Desktop\tdd-fernandaMt\Ordenamiento.Prueba\bin\Debug\netcoreapp2.2\Ordenamiento.Prueba.deps.json
+C:\Users\Fernanda Torres\Desktop\tdd-fernandaMt\Ordenamiento.Prueba\bin\Debug\netcoreapp2.2\Ordenamiento.Prueba.runtimeconfig.json
+C:\Users\Fernanda Torres\Desktop\tdd-fernandaMt\Ordenamiento.Prueba\bin\Debug\netcoreapp2.2\Ordenamiento.Prueba.runtimeconfig.dev.json
+C:\Users\Fernanda Torres\Desktop\tdd-fernandaMt\Ordenamiento.Prueba\bin\Debug\netcoreapp2.2\Ordenamiento.Prueba.dll
+C:\Users\Fernanda Torres\Desktop\tdd-fernandaMt\Ordenamiento.Prueba\bin\Debug\netcoreapp2.2\Ordenamiento.Prueba.pdb
+C:\Users\Fernanda Torres\Desktop\tdd-fernandaMt\Ordenamiento.Prueba\bin\Debug\netcoreapp2.2\Ordenamiento.dll
+C:\Users\Fernanda Torres\Desktop\tdd-fernandaMt\Ordenamiento.Prueba\bin\Debug\netcoreapp2.2\Ordenamiento.pdb
+C:\Users\Fernanda Torres\Desktop\tdd-fernandaMt\Ordenamiento.Prueba\obj\Debug\netcoreapp2.2\Ordenamiento.Prueba.csproj.CopyComplete
+C:\Users\Fernanda Torres\Desktop\tdd-fernandaMt\Ordenamiento.Prueba\obj\Debug\netcoreapp2.2\Ordenamiento.Prueba.dll
+C:\Users\Fernanda Torres\Desktop\tdd-fernandaMt\Ordenamiento.Prueba\obj\Debug\netcoreapp2.2\Ordenamiento.Prueba.pdb
